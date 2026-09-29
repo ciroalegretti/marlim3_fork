@@ -23,7 +23,7 @@
         "sentidoGeometriaSegueEscoamento": {
           "type": "boolean",
           "default": true,
-          "description": "Indica se o sentido de preenchimento da geometria segue o mesmo sentido do escoamento. Se true, o zero é o início da tubulação. Se false, a zero é o final da tubulação. É importante ressaltar que, no caso false, os ângulos ainda são definidos com relação ao sentido do escoamento, para manter a consistência com o Marlim 2."
+          "description": "Indica se o sentido de preenchimento da geometria segue o mesmo sentido do escoamento. Se true, o zero é o início da tubulação. Se false, o zero é o final da tubulação. É importante ressaltar que, no caso false, os ângulos ainda são definidos com relação ao sentido do escoamento, para manter a consistência com o Marlim 2."
         },
         "linhaGas": {
           "type": "boolean",
